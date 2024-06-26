@@ -1,11 +1,10 @@
 <div align="center">
     <h1 align="center">Hola, soy Joel Ircañaupa 👋</h1>
 </div>
-<div style="text-align: center;">
-    <img src="https://i.postimg.cc/DyjPkML8/joel-irca.png" alt="portadaJoel" style="width: 200px; height: auto;">
-</div>
+<img src="https://i.postimg.cc/DyjPkML8/joel-irca.png" alt="portadaJoel">
 
 <br>
+
 ## Sobre mí
 - ⭐ Apasionado por el desarrollo web
 - 🌐 Full Stack Developer
